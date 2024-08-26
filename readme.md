@@ -1,6 +1,4 @@
 
----
-
 # 🗨️ Streamlit Chat Application with Ollama
 
 This Streamlit application provides an interactive chat interface that allows users to interact with different AI models powered by Ollama. It offers a simple and user-friendly experience, making it easy to explore conversational AI.
